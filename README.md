@@ -45,10 +45,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 - **Author**: Jahid Hasan
 
-## Maintainers
-
-- **Maintainer**: [jhasan](https://gravatar.com/jhasan)
-
 ## Video Demonstration
 
 [![Watch the video](https://img.youtube.com/vi/xTAj-RyymWk/0.jpg)](https://www.youtube.com/watch?v=xTAj-RyymWk&t=3s&ab_channel=JahidInVision)
